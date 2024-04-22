@@ -18,7 +18,8 @@ To get started with the project:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Run `ShadowFlap.java` in order to play the game.
+3. Add the `pom.xml` file as a Maven project or reload the dependencies within it.
+4. Run `ShadowFlap.java` in order to play the game.
 
 ## Dependencies
 
