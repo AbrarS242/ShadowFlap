@@ -4,7 +4,9 @@ ShadowFlap is a fully functional game in Java based on Flappy Bird. The project 
 
 ## Gameplay
 
-![Level 0 Gameplay Video](https://giphy.com/gifs/4y6ZA2TCOKDLvDnskF)
+Level 0 Gameplay:
+
+![Level 0 Gameplay Video](https://github.com/AbrarS242/ShadowFlap/blob/main/assets/level_0_gamplay.gif)
 
 ## Project Structure
 
