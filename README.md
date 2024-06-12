@@ -44,6 +44,3 @@ ShadowFlap includes a variety of game elements and features, such as:
 - Score counter with level-specific scoring logic
 - Level transition screens for Level 0 and Level 1
 - Game over and win screens
-
-## Note ##
-This program was written as an assignment for the subject SWEN20003 Object Oriented Software Development at the University of Melbourne. 
